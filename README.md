@@ -11,3 +11,11 @@
 一开始也是想认真记录，但是有很多临时的感想，若是这本笔记真的有人看的话，看个笑话就可以。
 
 另：也想为社区做一点贡献。
+
+## whoami?
+
+Just another infosec guy
+
+blog: [https://blog.northshad0w.com](https://blog.northshad0w.com)
+
+github: [https://github.com/NorthShad0w](https://github.com/NorthShad0w)
