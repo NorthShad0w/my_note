@@ -19,6 +19,7 @@
 * [post-exploit](gong-ju-lie-biao-ba-le/yu-huan-jing.md)
 * [packet analyze](gong-ju-lie-biao-ba-le/packet-analyze.md)
 * [memory forensics](gong-ju-lie-biao-ba-le/memory-forensics.md)
+* [unusual files  tools](gong-ju-lie-biao-ba-le/unusual-files-tools.md)
 * [云 容器 之类的 还未整理](gong-ju-lie-biao-ba-le/yun-rong-qi-zhi-lei-de-hai-wei-zheng-li.md)
 * [C2 相关 还未整理](gong-ju-lie-biao-ba-le/c2-xiang-guan-hai-wei-zheng-li.md)
 * [系统功能](gong-ju-lie-biao-ba-le/xi-tong-gong-neng.md)
