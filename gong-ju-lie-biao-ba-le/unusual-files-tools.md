@@ -8,3 +8,6 @@ readpst    xxx.ost
 
 
 
+mbox
+
+evolution xxx.mbox
