@@ -5,6 +5,7 @@
 ## 常用工具列表罢了 <a href="gong-ju-lie-biao-ba-le" id="gong-ju-lie-biao-ba-le"></a>
 
 * [主机发现](gong-ju-lie-biao-ba-le/zhu-ji-fa-xian.md)
+* [工具网站](gong-ju-lie-biao-ba-le/gong-ju-wang-zhan.md)
 * [端口探测](gong-ju-lie-biao-ba-le/duan-kou-tan-ce.md)
 * [资产收集](gong-ju-lie-biao-ba-le/zi-chan-shou-ji.md)
 * [OSINT](gong-ju-lie-biao-ba-le/osint.md)
