@@ -48,6 +48,7 @@
 * [rust](ge-zhong-yu-yan/rust.md)
 * [python](ge-zhong-yu-yan/python/README.md)
   * [to be import](ge-zhong-yu-yan/python/to-be-import.md)
+  * [paramiko](ge-zhong-yu-yan/python/paramiko.md)
   * [oletools](ge-zhong-yu-yan/python/oletools.md)
 * [javascript\&typescript](ge-zhong-yu-yan/javascript-and-typescript.md)
 
