@@ -188,7 +188,10 @@
 * [命令](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/README.md)
   * [pacman](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/pacman.md)
 
-## machines/ boxes
+## 🏴 CaptureTheFlag
 
-* [Hack The Box](machines-boxes/hack-the-box/README.md)
-  * [carrier](machines-boxes/hack-the-box/carrier.md)
+* [Hack The Box](capturetheflag/hack-the-box/README.md)
+  * [boxes](capturetheflag/hack-the-box/boxes/README.md)
+    * [carrier](capturetheflag/hack-the-box/boxes/carrier.md)
+    * [Unattended](capturetheflag/hack-the-box/boxes/unattended.md)
+  * [challenge](capturetheflag/hack-the-box/challenge.md)
