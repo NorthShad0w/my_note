@@ -11,6 +11,7 @@ zo                  open a single fold under the cursor.
 zc                  close the fold under the cursor.
 zR                  open all folds.
 zM                  close all folds.
+ctrl + hjkl         move cursor
 ctrl+Page up/down   swich between tabs
 ctrl w  +  hjkl     swich between splits
 ```
