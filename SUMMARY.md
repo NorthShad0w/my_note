@@ -182,8 +182,8 @@
 * [strace](pwn/strace.md)
 * [ltrace](pwn/ltrace.md)
 * [r2 - radare2](pwn/r2-radare2/README.md)
-  * [1. intro & install](pwn/r2-radare2/1.-intro-and-install/README.md)
-    * [2. quick start](pwn/r2-radare2/1.-intro-and-install/2.-quick-start.md)
+  * [1. intro & install](pwn/r2-radare2/1.-intro-and-install.md)
+  * [2. quick start](pwn/r2-radare2/2.-quick-start.md)
 * [Ida pro](pwn/ida-pro.md)
 
 ## 自己折腾arch的记录
