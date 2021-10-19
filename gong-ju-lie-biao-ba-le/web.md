@@ -1,8 +1,8 @@
 # web
 
-批量根据域名访问判活网页   
+批量根据域名访问判活网页  &#x20;
 
-httprobe 
+httprobe&#x20;
 
 AQUATONE
 
@@ -12,7 +12,7 @@ fff  [https://github.com/tomnomnom/fff](https://github.com/tomnomnom/fff)
 
 
 
-fuzzing 
+fuzzing&#x20;
 
 ```
 ffuf       preferred    !change user-agent!
@@ -47,6 +47,8 @@ WAFbypass
 json web token  JWT
 
 `github.com/ticarpi/jwt_tool`
+
+`git hack  https://github.com/internetwache/GitTools`
 
 
 
