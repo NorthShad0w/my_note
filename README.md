@@ -14,7 +14,7 @@
 
 ## whoami?
 
-Just another infosec guy
+Just another infosec student && ctf player
 
 blog: [https://blog.northshad0w.com](https://blog.northshad0w.com)
 

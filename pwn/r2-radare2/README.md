@@ -13,7 +13,15 @@ afl ------------------   function list
 vvv ------------------   visualization mode
 pdf@main ----------------    print disassember function 
 ? 0x149a -----------------    display 0x149a in another numeric base.
+pdc @ main -----------------  display pseudo c code   
+
+## The pdc command is unreliable especially in processing loops (while, for, etc.). 
+## So I prefer to use the r2dec https://github.com/wargio/r2dec-js
+
+s 0x804856c ------------  seek
+ps   -------------------   print string
+
+
+
 
 ```
-
-rabin2 -z ./crackme0x00                                        search for strings in the binary.

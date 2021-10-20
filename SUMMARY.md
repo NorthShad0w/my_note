@@ -182,8 +182,12 @@
 * [strace](pwn/strace.md)
 * [ltrace](pwn/ltrace.md)
 * [r2 - radare2](pwn/r2-radare2/README.md)
+  * [plugins](pwn/r2-radare2/plugins.md)
+  * [command line tools](pwn/r2-radare2/command-line-tools.md)
   * [1. intro & install](pwn/r2-radare2/1.-intro-and-install.md)
   * [2. quick start](pwn/r2-radare2/2.-quick-start.md)
+  * [4.Basic command](pwn/r2-radare2/4.basic-command.md)
+  * [8. analyze](pwn/r2-radare2/8.-analyze.md)
 * [Ida pro](pwn/ida-pro.md)
 
 ## 自己折腾arch的记录
