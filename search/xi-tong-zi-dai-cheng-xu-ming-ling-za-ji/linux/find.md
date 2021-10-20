@@ -13,3 +13,7 @@ writable
 ```
 find . -writable -ls
 ```
+
+file belongs to certen group   exap.   grub
+
+`find / -group grub 2>/dev/null`

