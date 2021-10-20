@@ -8,7 +8,7 @@ If no commands are specified, the new-session command is assumed.
 tmux attach -t [target session]
 ```
 
-shortcuts -- after press C-b 
+shortcuts -- after press C-b&#x20;
 
 ```
 ------pane control------
@@ -56,6 +56,10 @@ space       start to select text
 enter       select selected text 
 C-f         page-down
 C-b         page-up
+C-d         half page down
+C-u         half page up
+C-e         scoll down
+C-y         scoll up
 
 
 ------tmux command prompt------
