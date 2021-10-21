@@ -4,7 +4,7 @@
 
 nodejs <= version 8
 
-new_line = '\u010D\u010A' 
+new\_line = '\u010D\u010A'&#x20;
 
 space = '\u0120'
 
@@ -14,7 +14,7 @@ http.server
 
 serve index.html
 
-wget 10.10.17.114  is ok 
+wget 10.10.17.114  is ok&#x20;
 
 don't need 10.10.17.114/evil.file     **/evil.file**
 
@@ -22,11 +22,11 @@ don't need 10.10.17.114/evil.file     **/evil.file**
 
 **direct admin.xx.com   blacklisted**
 
-try redirect       \<your ips>/index.php   ---->302         admin.xx.com    
+try redirect       \<your ips>/index.php   ---->302         admin.xx.com   &#x20;
 
 
 
-ssrf port scan   try 127.0.0.1 localhost ......
+ssrf port scan   try 127.0.0.1 localhost hex ......
 
 A good reminder to try both of them just in case when fuzzing things.
 

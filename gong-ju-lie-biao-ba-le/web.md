@@ -48,7 +48,9 @@ json web token  JWT
 
 `github.com/ticarpi/jwt_tool`
 
-`git hack  https://github.com/internetwache/GitTools`
+`git hack  `
+
+`https://github.com/internetwache/GitTools`
 
 
 
