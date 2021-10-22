@@ -114,8 +114,6 @@ POST参数00截断修改hex为00
 
 **去掉form-data**
 
-**content-Encoding: deflate**
-
 **在Content-Disposition或form-data;后添加多个空格**
 
 **引号回车**

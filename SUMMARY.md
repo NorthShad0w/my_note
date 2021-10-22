@@ -17,6 +17,7 @@
 * [smb](gong-ju-lie-biao-ba-le/smb.md)
 * [vnc](gong-ju-lie-biao-ba-le/vnc.md)
 * [snmp](gong-ju-lie-biao-ba-le/snmp.md)
+* [hash cracking](gong-ju-lie-biao-ba-le/hash-cracking.md)
 * [post-exploit](gong-ju-lie-biao-ba-le/yu-huan-jing.md)
 * [packet analyze](gong-ju-lie-biao-ba-le/packet-analyze.md)
 * [memory forensics](gong-ju-lie-biao-ba-le/memory-forensics.md)
