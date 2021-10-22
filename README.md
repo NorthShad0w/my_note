@@ -19,3 +19,5 @@ Just another infosec student && ctf player
 blog: [https://blog.northshad0w.com](https://blog.northshad0w.com)
 
 github: [https://github.com/NorthShad0w](https://github.com/NorthShad0w)
+
+## 干活前，先确定客户已经做好了日志和备份，和能管事的人确定！！
