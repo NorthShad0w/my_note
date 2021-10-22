@@ -20,7 +20,7 @@
 * [post-exploit](gong-ju-lie-biao-ba-le/yu-huan-jing.md)
 * [packet analyze](gong-ju-lie-biao-ba-le/packet-analyze.md)
 * [memory forensics](gong-ju-lie-biao-ba-le/memory-forensics.md)
-* [unusual files  tools](gong-ju-lie-biao-ba-le/unusual-files-tools.md)
+* [unusual files tools](gong-ju-lie-biao-ba-le/unusual-files-tools.md)
 * [云 容器 之类的 还未整理](gong-ju-lie-biao-ba-le/yun-rong-qi-zhi-lei-de-hai-wei-zheng-li.md)
 * [C2 相关 还未整理](gong-ju-lie-biao-ba-le/c2-xiang-guan-hai-wei-zheng-li.md)
 * [系统功能](gong-ju-lie-biao-ba-le/xi-tong-gong-neng.md)
@@ -189,6 +189,7 @@
   * [1. intro & install](pwn/r2-radare2/1.-intro-and-install.md)
   * [2. quick start](pwn/r2-radare2/2.-quick-start.md)
   * [4.Basic command](pwn/r2-radare2/4.basic-command.md)
+  * [5.visual mode](pwn/r2-radare2/5.visual-mode.md)
   * [8. analyze](pwn/r2-radare2/8.-analyze.md)
 * [Ida pro](pwn/ida-pro.md)
 
