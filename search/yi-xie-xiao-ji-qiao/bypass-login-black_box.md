@@ -1,16 +1,16 @@
-# bypass login-black_box
+# bypass login-black\_box
 
 1、sql注入的万能密码
 
 2、编程逻辑出问题导致的绕过ldap，通配符之类的
 
-register can brute force too may second order injection
+register can brute force too may second order injection or ssti
 
 if different domain websites are in the same host, the cookie may can be cross site use to bypass login
 
 3、修改返回包
 
-4、操作cookie(deserialize,jwt,padding oracle attack)
+4、操作cookie(deserialize,jwt,padding oracle attack, padding bits, common secret key(Flask,shiro))
 
 5、忘记密码逻辑问题
 
