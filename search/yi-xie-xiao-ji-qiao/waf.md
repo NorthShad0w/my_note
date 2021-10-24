@@ -116,6 +116,8 @@ POST参数00截断修改hex为00
 
 **content-Encoding: deflate**
 
+overflow content-Disposition
+
 **在Content-Disposition或form-data;后添加多个空格**
 
 **引号回车**
