@@ -1,10 +1,44 @@
 # interesting files
 
+arbitrary file read / file include / directory traval     check list
+
 if you can read file
 
 LFI or arbitrary file download
 
-try hacktricks -----   payloads all the thing
+1. &#x20; resource try hacktricks -----   payloads all the thing
+
+2\.  info gather
+
+```
+check directory listing    "."     "/"
+/etc/issue
+/etc/shadow
+/etc/hostname
+/etc/resolf.conf
+capture smb
+check file size format limit
+defaul config files with service running on the target
+history
+/proc/self/environ
+
+PHP
+apache sessions directory
+
+.NET
+web.config --- key --- deserialize
+
+Java
+WEB-INF/web.xml
+xxx.jar
+middle ware config file  xxx.xml    xxx.properties
+
+other
+C:\Users\Username\.aws\credentials    /.aws/credentials
+.config/.......         kubernetes
+
+.env config
+```
 
 here is some file to try
 
