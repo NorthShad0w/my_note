@@ -10,3 +10,6 @@ rabin2 -- RABIN2 — Binary program info extractor
 
 rabin2 -z ./crackme0x00                                        search for strings in the binary.
 
+
+
+rafind2 - advanced commandline hexadecimal editor
