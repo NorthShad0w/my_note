@@ -1,4 +1,11 @@
-# gdb 原版
+# gdb
+
+```
+break 6              # set breakpoint at file demo.c line 6
+r                    run
+c                    continue
+
+```
 
 在 readelf 和 strings 没有的情况下找system exit 和 '/bin/sh'
 
@@ -12,3 +19,23 @@ p exit
 
 find &system,+9999999, "sh"
 ```
+
+By default, when a program forks, GDB will continue to debug the parent process and the child process will run unimpeded.
+
+If you want to follow the child process instead of the parent process, use the command `set follow-fork-mode`.
+
+and&#x20;
+
+```
+set detach-on-fork off
+
+info inferiors
+inferiors 2
+```
+
+useful debugging programs whose parent process listening on a port and fork a child process to handle incoming connections
+
+
+
+
+

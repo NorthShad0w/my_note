@@ -178,7 +178,7 @@
 * [直接在目标机器上操作](pwn/zhi-jie-zai-mu-biao-ji-qi-shang-cao-zuo.md)
 * [拷贝到本地精心分析操作](pwn/kao-bei-dao-ben-di-jing-xin-fen-xi-cao-zuo.md)
 * [绕过](pwn/rao-guo.md)
-* [gdb 原版](pwn/gdb-yuan-ban.md)
+* [gdb](pwn/gdb-yuan-ban.md)
 * [gdb+gef](pwn/gdb+gef.md)
 * [ldd](pwn/ldd.md)
 * [readelf](pwn/readelf.md)
