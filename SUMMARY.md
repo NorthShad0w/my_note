@@ -193,6 +193,7 @@
   * [4.Basic command](pwn/r2-radare2/4.basic-command.md)
   * [5.visual mode](pwn/r2-radare2/5.visual-mode.md)
   * [8. analyze](pwn/r2-radare2/8.-analyze.md)
+  * [10.debugger](pwn/r2-radare2/10.debugger.md)
 * [Ida pro](pwn/ida-pro.md)
 
 ## 自己折腾arch的记录

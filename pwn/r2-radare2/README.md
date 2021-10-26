@@ -10,7 +10,7 @@ r2 \[file]
 command:
 aaa ------------------   code analyze a or aa 
 afl ------------------   function list
-vvv ------------------   visualization mode
+vvv ------------------   visualization  panel mode
 pdf@main ----------------    print disassember function 
 ? 0x149a -----------------    display 0x149a in another numeric base.
 pdc @ main -----------------  display pseudo c code 
