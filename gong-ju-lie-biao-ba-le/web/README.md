@@ -48,10 +48,10 @@ json web token  JWT
 
 `github.com/ticarpi/jwt_tool`
 
-`git hack  `
+**`git hack  `**
 
-`https://github.com/internetwache/GitTools`
+{% embed url="https://github.com/internetwache/GitTools" %}
 
+{% embed url="https://github.com/zricethezav/gitleaks" %}
 
-
-****
+{% embed url="https://github.com/trufflesecurity/truffleHog" %}
