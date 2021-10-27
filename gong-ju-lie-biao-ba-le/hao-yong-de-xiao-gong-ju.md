@@ -6,7 +6,9 @@
 
 cheat `cheat` allows you to create and view interactive cheatsheets on the command-line.
 
-https://github.com/cheat/cheat  
+{% embed url="https://github.com/cheat/cheat" %}
+
+spotify-tui [https://github.com/Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
 
 
 
