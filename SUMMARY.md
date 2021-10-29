@@ -59,6 +59,7 @@
 
 * [C](compile/unix-c/README.md)
   * [setuid.c](compile/unix-c/setuid.c.md)
+  * [setuid\_trick.c](compile/unix-c/setuid\_trick.c.md)
 * [go](compile/go.md)
 * [python3](compile/python3.md)
 * [Rust](compile/untitled.md)
@@ -196,6 +197,7 @@
   * [8. analyze](pwn/r2-radare2/8.-analyze.md)
   * [10.debugger](pwn/r2-radare2/10.debugger.md)
 * [Ida pro](pwn/ida-pro.md)
+* [pwntools](pwn/pwntools.md)
 
 ## 自己折腾arch的记录
 

@@ -6,3 +6,7 @@ pad攻击padbuster
 
 bruteforce-salted-openssl
 
+quipqiup
+
+rsactftool
+
