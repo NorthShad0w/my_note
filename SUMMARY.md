@@ -203,6 +203,7 @@
 
 * [命令](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/README.md)
   * [pacman](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/pacman.md)
+  * [virtual machine high resolution](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/virtual-machine-high-resolution.md)
 
 ## 🏴 CaptureTheFlag
 
