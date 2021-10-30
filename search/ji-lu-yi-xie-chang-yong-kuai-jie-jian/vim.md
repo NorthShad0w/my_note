@@ -14,6 +14,11 @@ zM                  close all folds.
 ctrl + hjkl         move cursor
 ctrl+Page up/down   swich between tabs
 ctrl w  +  hjkl     swich between splits
+
+use command in insert mode
+ctrl + o
++ 0 move to the start of current line
++ $ move to the end of current line.
 ```
 
 some interesting commands
