@@ -25,3 +25,12 @@ ssh -T user@host /bin/bash -i
 ```
 
 \-T 代表不要分配 tty，-i 代表要一个交互型的 bash
+
+
+
+ssh escape   set  port forwarding in current session
+
+```
+<enter>~C
+<enter>~? helpmenu
+```
