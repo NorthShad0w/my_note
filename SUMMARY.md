@@ -67,7 +67,8 @@
 ## 代码审计
 
 * [通用技巧](dai-ma-shen-ji/tong-yong-ji-qiao.md)
-* [php](dai-ma-shen-ji/php.md)
+* [php](dai-ma-shen-ji/php/README.md)
+  * [file include trick](dai-ma-shen-ji/php/file-include-trick.md)
 * [c#](dai-ma-shen-ji/c.md)
 * [python2](dai-ma-shen-ji/python2.md)
 * [python\*](dai-ma-shen-ji/python.md)
