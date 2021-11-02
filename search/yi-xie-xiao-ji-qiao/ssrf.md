@@ -28,6 +28,12 @@ try redirect       \<your ips>/index.php   ---->302         admin.xx.com   &#x20
 
 ssrf port scan   try 127.0.0.1 localhost hex ......
 
+domain name resolve to 127.0.0.1
+
+dns rebinding
+
+{% embed url="https://lock.cmpxchg8b.com/rebinder.html" %}
+
 A good reminder to try both of them just in case when fuzzing things.
 
 
@@ -35,3 +41,6 @@ A good reminder to try both of them just in case when fuzzing things.
 construct gopher
 
 proxy to burp  content-lenth add 2     url-encode-all
+
+
+
