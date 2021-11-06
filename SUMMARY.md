@@ -14,6 +14,7 @@
 * [ftp](gong-ju-lie-biao-ba-le/ftp.md)
 * [web](gong-ju-lie-biao-ba-le/web/README.md)
   * [ssti](gong-ju-lie-biao-ba-le/web/ssti.md)
+  * [ssrf](gong-ju-lie-biao-ba-le/web/ssrf.md)
 * [rpc](gong-ju-lie-biao-ba-le/rpc.md)
 * [oracle](gong-ju-lie-biao-ba-le/oracle.md)
 * [smb](gong-ju-lie-biao-ba-le/smb.md)
