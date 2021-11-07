@@ -1,7 +1,12 @@
 # gdb
 
 ```
+info b               # show breakpoints
+del  2               # delete breakpoint 2
 break 6              # set breakpoint at file demo.c line 6
+break *0x4334343      # set break point
+si                    # step in
+fini                  # finish a function
 r                    run
 c                    continue
 
@@ -34,6 +39,12 @@ inferiors 2
 ```
 
 useful debugging programs whose parent process listening on a port and fork a child process to handle incoming connections
+
+### read some string
+
+```
+x/s $rdi
+```
 
 
 

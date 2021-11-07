@@ -12,5 +12,9 @@ pattern search --length 500 'asdd'
 
 test big and little both
 
-hexdump b(byte) 0xasdasd
+#### read momory
+
+`hexdump b(byte) 0xasdasd`
+
+
 
