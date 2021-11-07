@@ -168,6 +168,7 @@
   * [postgresql](search/shu-ju-ku-ji-qiao/postgresql.md)
   * [mangodb](search/shu-ju-ku-ji-qiao/mangodb.md)
   * [sqlserver](search/shu-ju-ku-ji-qiao/sqlserver.md)
+  * [sqllite](search/shu-ju-ku-ji-qiao/sqllite.md)
 * [记录一些常用快捷键](search/ji-lu-yi-xie-chang-yong-kuai-jie-jian/README.md)
   * [vscode shortcuts](search/ji-lu-yi-xie-chang-yong-kuai-jie-jian/vscode.md)
   * [terminal shortcuts](search/ji-lu-yi-xie-chang-yong-kuai-jie-jian/terminal-shortcuts.md)
