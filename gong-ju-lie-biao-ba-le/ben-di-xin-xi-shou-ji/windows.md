@@ -26,6 +26,12 @@ bypass UAC
 
 
 
+useful potato [https://github.com/zcgonvh/EfsPotato](https://github.com/zcgonvh/EfsPotato)
+
+#### SeManageVolumeAbuse          xct github
+
+#### SeRestoreAbuse              xct   github
+
 
 
 manual

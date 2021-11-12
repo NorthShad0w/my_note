@@ -64,6 +64,7 @@
 * [go](compile/go.md)
 * [python3](compile/python3.md)
 * [Rust](compile/untitled.md)
+* [杂](compile/za.md)
 
 ## 代码审计
 

@@ -20,6 +20,8 @@ networkcard level reverse tunneling  [https://github.com/tnpitsecurity/ligolo-ng
 
 
 
+mssqlproxy  [https://github.com/0xdf-0xdf/mssqlproxy/tree/python3](https://github.com/0xdf-0xdf/mssqlproxy/tree/python3) (python3 version)
+
 
 
 northcat my tool didn't open source
