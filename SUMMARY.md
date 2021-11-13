@@ -184,6 +184,7 @@
 * [一些前置知识](pwn/yi-xie-qian-zhi-zhi-shi.md)
 * [直接在目标机器上操作](pwn/zhi-jie-zai-mu-biao-ji-qi-shang-cao-zuo.md)
 * [拷贝到本地精心分析操作](pwn/kao-bei-dao-ben-di-jing-xin-fen-xi-cao-zuo.md)
+* [dynamic analyze](pwn/dynamic-analyze.md)
 * [绕过](pwn/rao-guo.md)
 * [gdb](pwn/gdb-yuan-ban.md)
 * [gdb+gef](pwn/gdb+gef.md)
