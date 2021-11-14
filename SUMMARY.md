@@ -65,7 +65,7 @@
 * [go](compile/go.md)
 * [python3](compile/python3.md)
 * [Rust](compile/untitled.md)
-* [杂](compile/za.md)
+* [杂/像个软工一样开发](compile/za-xiang-ge-ruan-gong-yi-yang-kai-fa.md)
 
 ## 代码审计
 
