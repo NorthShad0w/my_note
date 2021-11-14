@@ -153,6 +153,7 @@
   * [值得扫描的UDP端口](search/yi-xie-xiao-ji-qiao/zhi-de-sao-miao-de-udp-duan-kou.md)
   * [linux命令执行/注入](search/yi-xie-xiao-ji-qiao/linux-ming-ling-zhi-hang-zhu-ru.md)
   * [检测引号的情况](search/yi-xie-xiao-ji-qiao/jian-ce-yin-hao-de-qing-kuang.md)
+* [devopssec](search/devopssec.md)
 * [一些知道就可以的知识](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/README.md)
   * [cmd type](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/cmd-type.md)
   * [标准流](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/standard-stream.md)

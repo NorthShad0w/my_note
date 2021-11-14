@@ -1,6 +1,6 @@
 # 值得扫描的UDP端口
 
-69,123,161,162,10161,10162
+69,123,161,162,623,10161,10162
 
 69/UDP TFTP/Bittorrent-tracker
 
@@ -11,3 +11,5 @@
 \--top-ports 200/20/10
 
 udp scan is too slow
+
+udp port 623    ipmi          msf scanner/ipmi/ipmi\_dumphashes hashdump
