@@ -1,7 +1,9 @@
 # 隐写术 文件信息
 
-steghide 
+steghide&#x20;
 
 查看文件，图片信息exiftool
 
-strings 
+strings&#x20;
+
+stegsolve   kali apt install
