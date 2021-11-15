@@ -6,4 +6,4 @@ steghide&#x20;
 
 strings&#x20;
 
-stegsolve   kali apt install
+stegsolve&#x20;
