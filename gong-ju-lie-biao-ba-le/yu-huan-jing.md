@@ -10,4 +10,4 @@ bloodhound-python
 
 ## movement
 
-crackmapexec
+crackmapexec    can be used to do password spray
