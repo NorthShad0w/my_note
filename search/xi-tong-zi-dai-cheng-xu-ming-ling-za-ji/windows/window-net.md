@@ -9,3 +9,7 @@ UID不为500想psexec要关闭UAC
 更改共享权限
 
 net share Docs=D: /grant:everyone,FULL
+
+
+
+net start/stop \[service name]

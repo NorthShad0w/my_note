@@ -81,7 +81,8 @@
 
 * [forensic](search/forensic/README.md)
   * [volatility](search/forensic/volatility.md)
-* [权限维持](search/quan-xian-wei-chi.md)
+* [权限维持](search/quan-xian-wei-chi/README.md)
+  * [windows影子用户](search/quan-xian-wei-chi/windows-ying-zi-yong-hu.md)
 * [加密shell encrypted shell](search/jia-mi-shell-encrypted-shell.md)
 * [docker/ container](search/docker-container.md)
 * [渗透工具技巧杂记](search/gong-ju-ming-ling-za-ji/README.md)
