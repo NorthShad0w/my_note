@@ -12,6 +12,10 @@ if __name__ == '__main__'
 
 
 
+//  full division
+
+
+
 编码后是字节，字节可以解码成字符串
 
 b'\xe6\x88\x91\xe8\xbf\x98\xe7\x88\xb1\xe4\xbd\xa0' 我还爱你
