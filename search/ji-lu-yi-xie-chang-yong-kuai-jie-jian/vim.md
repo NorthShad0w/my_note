@@ -2,6 +2,8 @@
 
 customize vim
 
+neovim config file  \~/.config/nvim/init.vim
+
 look at my github
 
 shortcuts
