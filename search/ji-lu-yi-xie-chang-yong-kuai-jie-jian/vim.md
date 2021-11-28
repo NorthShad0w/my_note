@@ -17,8 +17,11 @@ ctrl w  +  hjkl     swich between splits
 
 use command in insert mode
 ctrl + o
-+ 0 move to the start of current line
-+ $ move to the end of current line.
+ 0 move to the start of current line
+ $ move to the end of current line.
+ ^ to go to the first non-blank character in a line
+ 10j / 10k   move the cursor down/up 10 lines
+ 
 ```
 
 some interesting commands
