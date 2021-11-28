@@ -1,6 +1,8 @@
 # WAF
 
+unicode
 
+block transfer
 
 **垃圾数据**
 

