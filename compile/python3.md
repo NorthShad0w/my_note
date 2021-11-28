@@ -14,6 +14,8 @@ if __name__ == '__main__'
 
 //  full division
 
+pow(x,y,z) X 的Y 次方 用Z 取模
+
 
 
 编码后是字节，字节可以解码成字符串
