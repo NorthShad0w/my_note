@@ -27,3 +27,18 @@ b'\x73\x74\x72\x69\x6e\x67'          'string'
 对于一些比较麻烦的要转移处理的字符串可以直接用字节流
 
 for i in $(xxd -p test.object | sed 's/../\\\x&/g'); do echo "payload += b'$i'";done
+
+
+
+Negative Indexes
+
+Negative indexes start at the end of a string with -1
+
+'hello'.find('e')              1  &#x20;
+
+
+
+
+
+
+
