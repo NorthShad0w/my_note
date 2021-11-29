@@ -3,7 +3,7 @@
 * [Intro](README.md)
 * [流程](liu-cheng.md)
 
-## 常用工具列表罢了 <a href="gong-ju-lie-biao-ba-le" id="gong-ju-lie-biao-ba-le"></a>
+## 常用工具列表罢了 <a href="#gong-ju-lie-biao-ba-le" id="gong-ju-lie-biao-ba-le"></a>
 
 * [infrastructure](gong-ju-lie-biao-ba-le/infrastructure.md)
 * [主机发现](gong-ju-lie-biao-ba-le/zhu-ji-fa-xian.md)
@@ -46,7 +46,7 @@
   * [windows](gong-ju-lie-biao-ba-le/ben-di-xin-xi-shou-ji/windows.md)
   * [MacOS](gong-ju-lie-biao-ba-le/ben-di-xin-xi-shou-ji/macos.md)
 
-## 各种语言使用技巧（useful tools & module） <a href="ge-zhong-yu-yan" id="ge-zhong-yu-yan"></a>
+## 各种语言使用技巧（useful tools & module） <a href="#ge-zhong-yu-yan" id="ge-zhong-yu-yan"></a>
 
 * [powershell](ge-zhong-yu-yan/powershell.md)
 * [go](ge-zhong-yu-yan/go.md)
@@ -57,7 +57,7 @@
   * [oletools](ge-zhong-yu-yan/python/oletools.md)
 * [javascript\&typescript](ge-zhong-yu-yan/javascript-and-typescript.md)
 
-## compile && programming <a href="compile" id="compile"></a>
+## compile && programming <a href="#compile" id="compile"></a>
 
 * [C](compile/unix-c/README.md)
   * [setuid.c](compile/unix-c/setuid.c.md)
@@ -77,7 +77,7 @@
 * [python2](dai-ma-shen-ji/python2.md)
 * [python\*](dai-ma-shen-ji/python.md)
 
-## 杂项备忘 <a href="search" id="search"></a>
+## 杂项备忘 <a href="#search" id="search"></a>
 
 * [forensic](search/forensic/README.md)
   * [volatility](search/forensic/volatility.md)
@@ -182,8 +182,9 @@
   * [alacritty shortcuts](search/ji-lu-yi-xie-chang-yong-kuai-jie-jian/alacritty-shortcuts.md)
   * [vim/neovim](search/ji-lu-yi-xie-chang-yong-kuai-jie-jian/vim.md)
 
-## pwn/reverse <a href="pwn" id="pwn"></a>
+## pwn/reverse <a href="#pwn" id="pwn"></a>
 
+* [python decompile](pwn/python-decompile.md)
 * [一些前置知识](pwn/yi-xie-qian-zhi-zhi-shi.md)
 * [直接在目标机器上操作](pwn/zhi-jie-zai-mu-biao-ji-qi-shang-cao-zuo.md)
 * [拷贝到本地精心分析操作](pwn/kao-bei-dao-ben-di-jing-xin-fen-xi-cao-zuo.md)
