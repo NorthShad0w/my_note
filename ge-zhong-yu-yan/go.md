@@ -12,9 +12,9 @@ GO111MODULE=on GOPROXY=https://goproxy.io
 
 third party package
 
-**logrus is better than official Go log package **`github.com/sirupsen/logrus`
+**logrus is better than official Go log package** `github.com/sirupsen/logrus`
 
-**web router **`github.com/gorilla/mux`
+**web router** `github.com/gorilla/mux`
 
 web socket `github.com/gorilla/websocket`
 
