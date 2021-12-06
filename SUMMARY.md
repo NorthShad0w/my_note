@@ -50,7 +50,8 @@
 
 * [powershell](ge-zhong-yu-yan/powershell.md)
 * [go](ge-zhong-yu-yan/go.md)
-* [rust](ge-zhong-yu-yan/rust.md)
+* [Rust](ge-zhong-yu-yan/rust/README.md)
+  * [rustup](ge-zhong-yu-yan/rust/rustup.md)
 * [python](ge-zhong-yu-yan/python/README.md)
   * [to be import](ge-zhong-yu-yan/python/to-be-import.md)
   * [paramiko](ge-zhong-yu-yan/python/paramiko.md)
@@ -65,7 +66,8 @@
 * [java](compile/java.md)
 * [go](compile/go.md)
 * [python3](compile/python3.md)
-* [Rust](compile/untitled.md)
+* [Rust](compile/untitled/README.md)
+  * [Page 1](compile/untitled/page-1.md)
 * [杂/像个软工一样开发](compile/za-xiang-ge-ruan-gong-yi-yang-kai-fa.md)
 
 ## 代码审计
