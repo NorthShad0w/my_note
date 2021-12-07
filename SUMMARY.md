@@ -124,6 +124,7 @@
       * [kill](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/network-process/kill.md)
       * [ps](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/network-process/ps.md)
       * [iptables](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/network-process/iptables.md)
+      * [ifupdown](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/network-process/ifupdown.md)
     * [stream/text/file](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/stream-text-file/README.md)
       * [awk](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/stream-text-file/awk.md)
       * [sed](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/linux/stream-text-file/sed.md)
