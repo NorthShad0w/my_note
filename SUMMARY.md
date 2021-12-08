@@ -216,11 +216,12 @@
 * [Ida pro](pwn/ida-pro.md)
 * [pwntools](pwn/pwntools.md)
 
-## 自己折腾arch的记录
+## linux notes
 
-* [命令](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/README.md)
-  * [pacman](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/pacman.md)
-  * [virtual machine high resolution](zi-ji-zhe-teng-arch-de-ji-lu/ming-ling/virtual-machine-high-resolution.md)
+* [命令](linux-notes/ming-ling/README.md)
+  * [pacman](linux-notes/ming-ling/pacman.md)
+  * [virtual machine high resolution](linux-notes/ming-ling/virtual-machine-high-resolution.md)
+* [openvpn](linux-notes/openvpn.md)
 
 ## 🏴 CaptureTheFlag
 
