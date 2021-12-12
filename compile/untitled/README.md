@@ -1,6 +1,10 @@
+---
+description: rustaceans
+---
+
 # Rust
 
-rust
+rustc
 
 ```
 dynamic link when compiling:

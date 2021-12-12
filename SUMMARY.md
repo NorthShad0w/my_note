@@ -67,7 +67,7 @@
 * [go](compile/go.md)
 * [python3](compile/python3.md)
 * [Rust](compile/untitled/README.md)
-  * [Page 1](compile/untitled/page-1.md)
+  * [cargo](compile/untitled/cargo.md)
 * [杂/像个软工一样开发](compile/za-xiang-ge-ruan-gong-yi-yang-kai-fa.md)
 
 ## 代码审计
