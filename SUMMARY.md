@@ -70,7 +70,8 @@
   * [cargo](compile/untitled/cargo.md)
   * [feature](compile/untitled/feature.md)
   * [ownership](compile/untitled/ownership.md)
-* [杂/像个软工一样开发](compile/za-xiang-ge-ruan-gong-yi-yang-kai-fa.md)
+* [杂/像个软工一样开发](compile/za-xiang-ge-ruan-gong-yi-yang-kai-fa/README.md)
+  * [improve console program](compile/za-xiang-ge-ruan-gong-yi-yang-kai-fa/improve-console-program.md)
 
 ## 代码审计
 
