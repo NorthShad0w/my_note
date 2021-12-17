@@ -22,4 +22,10 @@ standard libliary to create a command line interface.
 
 #### pyperclip
 
-cross-platform Python module for copy and paste clipboard functions\`
+cross-platform Python module for copy and paste clipboard functions
+
+
+
+特殊字符
+
+string.punctuation
