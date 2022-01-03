@@ -48,7 +48,8 @@
 
 ## 各种语言使用技巧（useful tools & module） <a href="#ge-zhong-yu-yan" id="ge-zhong-yu-yan"></a>
 
-* [powershell](ge-zhong-yu-yan/powershell.md)
+* [powershell](ge-zhong-yu-yan/powershell/README.md)
+  * [语法](ge-zhong-yu-yan/powershell/yu-fa.md)
 * [go](ge-zhong-yu-yan/go.md)
 * [Rust](ge-zhong-yu-yan/rust/README.md)
   * [rustup](ge-zhong-yu-yan/rust/rustup.md)
