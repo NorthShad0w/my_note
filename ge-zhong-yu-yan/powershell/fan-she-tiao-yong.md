@@ -19,3 +19,59 @@ function LookupFunctions {
 
 $virtualalloc = LookupFunctions kernel32.dll VirtualAlloc
 ```
+
+反射调用messageboxa poc
+
+```powershell
+$MessageBoxA = LookupFunc user32.dll MessageBoxA
+$MyAssembly = New-Object System.Reflection.AssemblyName('ReflectedDelegate')
+$Domain = [AppDomain]::CurrentDomain
+$MyAssemblyBuilder = $Domain.DefineDynamicAssembly($MyAssembly, [System.Reflection.Emit.AssemblyBuilderAccess]::Run)
+$MyModuleBuilder = $MyAssemblyBuilder.DefineDynamicModule('InMemoryModule', $false)
+$MyTypeBuilder = $MyModuleBuilder.DefineType('MyDelegateType', 'Class, Public, Sealed, AnsiClass, AutoClass', [System.MulticastDelegate])
+
+$MyConstructorBuilder = $MyTypeBuilder.DefineConstructor(
+  'RTSpecialName, HideBySig, Public', 
+    [System.Reflection.CallingConventions]::Standard, 
+      @([IntPtr], [String], [String], [int]))
+$MyConstructorBuilder.SetImplementationFlags('Runtime, Managed')
+$MyMethodBuilder = $MyTypeBuilder.DefineMethod('Invoke', 
+  'Public, HideBySig, NewSlot, Virtual', 
+    [int], 
+      @([IntPtr], [String], [String], [int]))
+$MyMethodBuilder.SetImplementationFlags('Runtime, Managed')
+$MyDelegateType = $MyTypeBuilder.CreateType()
+
+$MyFunction = [System.Runtime.InteropServices.Marshal]::
+    GetDelegateForFunctionPointer($MessageBoxA, $MyDelegateType)
+$MyFunction.Invoke([IntPtr]::Zero,"Hello World","This is My MessageBox",0)
+```
+
+反射调用 _WinExec Poc_
+
+```powershell
+$WinExec = LookupFunc kernel32.dll WinExec
+$MyAssembly = New-Object System.Reflection.AssemblyName('ReflectedDelegate')
+$Domain = [AppDomain]::CurrentDomain
+$MyAssemblyBuilder = $Domain.DefineDynamicAssembly($MyAssembly, 
+  [System.Reflection.Emit.AssemblyBuilderAccess]::Run)
+$MyModuleBuilder = $MyAssemblyBuilder.DefineDynamicModule('InMemoryModule', $false)
+$MyTypeBuilder = $MyModuleBuilder.DefineType('MyDelegateType', 
+  'Class, Public, Sealed, AnsiClass, AutoClass', [System.MulticastDelegate])
+
+$MyConstructorBuilder = $MyTypeBuilder.DefineConstructor(
+  'RTSpecialName, HideBySig, Public', 
+    [System.Reflection.CallingConventions]::Standard, 
+      @([String], [int]))
+$MyConstructorBuilder.SetImplementationFlags('Runtime, Managed')
+$MyMethodBuilder = $MyTypeBuilder.DefineMethod('Invoke', 
+  'Public, HideBySig, NewSlot, Virtual', 
+    [int], 
+      @([String], [int]))
+$MyMethodBuilder.SetImplementationFlags('Runtime, Managed')
+$MyDelegateType = $MyTypeBuilder.CreateType()
+
+$MyFunction = [System.Runtime.InteropServices.Marshal]::
+    GetDelegateForFunctionPointer($WinExec, $MyDelegateType)
+$MyFunction.Invoke("calc.exe",5)
+```
