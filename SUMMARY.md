@@ -51,6 +51,7 @@
 
 * [powershell](ge-zhong-yu-yan/powershell/README.md)
   * [语法](ge-zhong-yu-yan/powershell/yu-fa.md)
+  * [反射调用](ge-zhong-yu-yan/powershell/fan-she-tiao-yong.md)
 * [go](ge-zhong-yu-yan/go.md)
 * [Rust](ge-zhong-yu-yan/rust/README.md)
   * [rustup](ge-zhong-yu-yan/rust/rustup.md)

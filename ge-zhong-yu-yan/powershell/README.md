@@ -24,7 +24,7 @@ hash
 
 `get-filehash`
 
-``
+password reuse    need remote manager priv in net user
 
 ```
 password reuse   need remote manager priv
