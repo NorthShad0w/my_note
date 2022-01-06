@@ -2,6 +2,10 @@
 
 html smugling    exe
 
+
+
+hta   _Demiguise_ tool
+
 office  &#x20;
 
 &#x20;         vba    download exe run

@@ -12,7 +12,7 @@ github.com/zerosum0x0/koadic          jscript c2
 
 
 
-github.com/byt3bl33d3r/SILENTTRINITY
+github.com/byt3bl33d3r/SILENTTRINITY   python .net
 
 
 
