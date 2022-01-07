@@ -62,7 +62,10 @@
   * [oletools](ge-zhong-yu-yan/python/oletools.md)
 * [javascript\&typescript](ge-zhong-yu-yan/javascript-and-typescript/README.md)
   * [钓鱼](ge-zhong-yu-yan/javascript-and-typescript/diao-yu.md)
-* [c#](ge-zhong-yu-yan/c.md)
+* [c#](ge-zhong-yu-yan/c/README.md)
+  * [process injection](ge-zhong-yu-yan/c/process-injection.md)
+  * [dll injection](ge-zhong-yu-yan/c/dll-injection.md)
+  * [Reflective DLL Injection](ge-zhong-yu-yan/c/reflective-dll-injection.md)
 
 ## compile && programming <a href="#compile" id="compile"></a>
 
