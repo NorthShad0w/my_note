@@ -229,6 +229,9 @@
   * [10.debugger](pwn/r2-radare2/10.debugger.md)
 * [Ida pro](pwn/ida-pro.md)
 * [pwntools](pwn/pwntools.md)
+* [windbg](pwn/windbg.md)
+* [hook](pwn/hook/README.md)
+  * [Hooking with Frida](pwn/hook/hooking-with-frida.md)
 
 ## linux notes
 
