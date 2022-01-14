@@ -10,6 +10,8 @@ spp 多协议转发穿透
 
 https://github.com/p3nt4/Invoke-SocksProxy powershell脚本转发
 
+Secure Socket Funneling
+
 github.com/rssnsj/portfwd     纯C语言端口抓发，我一直想要的东西
 
 frp

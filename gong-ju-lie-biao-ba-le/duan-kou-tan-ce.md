@@ -11,3 +11,5 @@ rustscan [https://github.com/RustScan/RustScan/](https://github.com/RustScan/Rus
 netcat   can UDP
 
 ncat
+
+nmap 有特征，内网尽量用修改过的那一份，或者凭经验找端口，大规模的扫还是不划算
