@@ -182,6 +182,7 @@
   * [标准流](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/standard-stream.md)
   * [nc和telnet的区别](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/nc-he-telnet-de-qu-bie.md)
   * [windows macro](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/windows-macro.md)
+  * [kerberos delegation](search/yi-xie-zhi-dao-jiu-ke-yi-de-zhi-shi/kerberos-delegation.md)
 * [ssh sign login](search/ssh-sign-login.md)
 * [文件传输备忘](search/wen-jian-chuan-shu-bei-wang/README.md)
   * [whois](search/wen-jian-chuan-shu-bei-wang/whois.md)
