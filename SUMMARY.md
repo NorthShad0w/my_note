@@ -122,7 +122,7 @@
   * [crackmapexec](search/gong-ju-ming-ling-za-ji/crackmapexec.md)
   * [net-ntlmv2-relay](search/gong-ju-ming-ling-za-ji/net-ntlmv2-relay.md)
 * [免杀](search/mian-sha/README.md)
-  * [Page 1](search/mian-sha/page-1.md)
+  * [edr bypass](search/mian-sha/edr-bypass.md)
 * [钓鱼](search/diao-yu.md)
 * [其他常用命令杂记](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/README.md)
   * [windows](search/xi-tong-zi-dai-cheng-xu-ming-ling-za-ji/windows/README.md)
