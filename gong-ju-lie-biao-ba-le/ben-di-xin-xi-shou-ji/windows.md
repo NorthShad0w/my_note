@@ -28,6 +28,12 @@ bypass UAC
 
 useful potato [https://github.com/zcgonvh/EfsPotato](https://github.com/zcgonvh/EfsPotato)
 
+2016 win10 早版可以用jucy potato  晚期桌面版可以用bean   network可以用_FaxHell_&#x20;
+
+可以用自己写的printspoofer&#x20;
+
+
+
 #### SeManageVolumeAbuse          xct github
 
 #### SeRestoreAbuse              xct   github
