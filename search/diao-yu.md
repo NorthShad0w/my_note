@@ -19,3 +19,11 @@ office  &#x20;
 Windows Script Host
 
 &#x20;        javascript       .js            .jse     查看win10的默认应用
+
+
+
+sharpshouter
+
+dotnettojscript
+
+gadgettojscript
