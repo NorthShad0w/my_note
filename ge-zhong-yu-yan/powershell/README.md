@@ -6,7 +6,17 @@ github.com/trustedsec/unicorn
 
 
 
-framework   nishang   powersploit
+framework  &#x20;
+
+nishang 有更新后的invoke-mimikatz  &#x20;
+
+powersploit  不更新了 但是有以前的invoke-mimikatz
+
+可以看看 empire里面的 server/data/module\_source 有时也可以用。
+
+还没有想清楚empire如何跟360等edr对抗
+
+
 
 reverse shell powercat
 

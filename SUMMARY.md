@@ -53,6 +53,7 @@
   * [语法](ge-zhong-yu-yan/powershell/yu-fa.md)
   * [反射调用](ge-zhong-yu-yan/powershell/fan-she-tiao-yong.md)
   * [webclient tricks](ge-zhong-yu-yan/powershell/webclient-tricks.md)
+  * [Page 1](ge-zhong-yu-yan/powershell/page-1.md)
 * [go](ge-zhong-yu-yan/go.md)
 * [Rust](ge-zhong-yu-yan/rust/README.md)
   * [rustup](ge-zhong-yu-yan/rust/rustup.md)
