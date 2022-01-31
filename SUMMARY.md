@@ -121,6 +121,7 @@
   * [proxychains](search/gong-ju-ming-ling-za-ji/proxychains.md)
   * [mimikatz](search/gong-ju-ming-ling-za-ji/mimikatz.md)
   * [crackmapexec](search/gong-ju-ming-ling-za-ji/crackmapexec.md)
+  * [bloodhound](search/gong-ju-ming-ling-za-ji/bloodhound.md)
   * [net-ntlmv2-relay](search/gong-ju-ming-ling-za-ji/net-ntlmv2-relay.md)
 * [免杀](search/mian-sha/README.md)
   * [edr bypass](search/mian-sha/edr-bypass.md)
