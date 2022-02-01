@@ -8,6 +8,10 @@ github.com/gloxec/CrossC2   CS框架 还没仔细看过
 
 [https://github.com/FunnyWolf/Viper](https://github.com/FunnyWolf/Viper)  图形化msf
 
+covenant 很有意思的.net c2
+
+mythic  说是未来的c2
+
 
 
 github.com/zerosum0x0/koadic          jscript c2
