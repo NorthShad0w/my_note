@@ -12,6 +12,8 @@ powershell constrained language mode bypass
 
 {% embed url="https://github.com/padovah4ck/PSByPassCLM" %}
 
+{% embed url="https://github.com/calebstewart/bypass-clm/blob/master/bypass-clm/Program.cs" %}
+
 
 
 if privilege is too low
