@@ -10,6 +10,8 @@
 
 2 使用微软自己的程序   white list : lolbas-project.github.io
 
+C# .net 为什么是神 （误。
+
 ```
 csc.exe + InstallUtil.exe
 
