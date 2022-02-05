@@ -8,7 +8,7 @@
 
 最关键的，要利用iptables的nat表
 
-```
+```shell
 sudo iptables -t nat -A POSTROUTING -s 10.8.0.0/24 -o eth0 -j MASQUERADE
 sudo iptables-save   (ubuntu)
 sudo service iptables save   (redhat)
