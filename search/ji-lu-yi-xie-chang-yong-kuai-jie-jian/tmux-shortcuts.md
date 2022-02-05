@@ -20,8 +20,8 @@ x           Kill the current pane.
 m           Mark the current pane.
 M           Clear the marked pane.
 q           Briefly display pane indexes.
-C+array     Change size                                     ------          **
-array       Change current pane.                            ------          **
+C+array     Change size             (remap to hjkl)         ------          **
+array       Change current pane.    (remap to hjkl)         ------          **
 z           Toggle zoom state of the current pane.(repeat exit)
 alt-1 to alt-5  Arrange panes in one of the five preset layouts: even-horizontal, even-vertical, main-horizontal, main-vertical, or tiled.
 
