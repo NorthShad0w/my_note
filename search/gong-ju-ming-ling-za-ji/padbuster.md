@@ -6,4 +6,7 @@ padbuster http://10.10.10.18 2zKLNWhe0Xt7G4ymYDK%2BEdptckP8a8vO 8 -cookies auth=
 
 进行伪造
 -plaintext user=admin
+
+不用
+改用rust 写的 https://github.com/Kibouo/rustpad
 ```
