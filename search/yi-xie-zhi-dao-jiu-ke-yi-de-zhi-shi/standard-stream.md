@@ -1,12 +1,12 @@
 # 标准流
 
-## Standard streams <a href="firstheading" id="firstheading"></a>
+## Standard streams <a href="#firstheading" id="firstheading"></a>
 
 in:0  out:1 error:2      redirect:            >&
 
 list all open file descriptors:
 
-```
+```vbnet
 ls -la /proc/$$/fd
 ```
 
