@@ -8,7 +8,7 @@ cheat `cheat` allows you to create and view interactive cheatsheets on the comma
 
 {% embed url="https://github.com/cheat/cheat" %}
 
-spotify-tui [https://github.com/Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)
+spotify-tui [https://github.com/Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) 听音乐
 
 
 
